@@ -53,8 +53,8 @@ button{
 .img1{
     /* width: 10px;
     height: 5px; */
-    max-width: 20%;
-    max-height: 20%;
+    max-width: 40%;
+    max-height: 40%;
 }
 #team, #programs, #contact{
     background-color: aqua;
